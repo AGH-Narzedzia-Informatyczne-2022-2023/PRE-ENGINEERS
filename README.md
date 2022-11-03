@@ -12,8 +12,8 @@ print(" cześć przybyszu ")
 ## Tabela 
 | na lewo    | w górę i w dół  | na prawo  |
 
-## Zwierzyniec
-###### Kotek
+## Zwierzynie
+###### Kotek       
 ![cat](Animals/cat.jpg)
 ###### Piesek
 ![dog](Animals/dog.jpg)

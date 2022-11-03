@@ -16,5 +16,5 @@ print(" cześć przybyszu ")
 ###### Kotek
 ![cat](Animals/cat.jpg)
 ###### Piesek
-![dog](Animals/dog.jpg) 
+![dog](Animals/dog.jpg)
 

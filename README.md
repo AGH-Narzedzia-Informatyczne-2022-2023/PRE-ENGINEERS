@@ -17,4 +17,6 @@ print(" cześć przybyszu ")
 ![cat](Animals/cat.jpg)
 ###### Piesek
 ![dog](Animals/dog.jpg)
+###### Panda
+![panda](Animals/panda.jpg)
 

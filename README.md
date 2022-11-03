@@ -11,8 +11,3 @@ print(" cześć przybyszu ")
 ```
 ## Tabela 
 | na lewo    | w górę i w dół  | na prawo  |
-
-
-## Zwierzęta
-###### Kotek
-![kot](animals

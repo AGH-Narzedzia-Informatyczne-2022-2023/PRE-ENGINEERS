@@ -20,10 +20,13 @@ print(" cześć przybyszu ")
 ###### Panda
 ![panda](Animals/panda.jpg)
 
-## StudUnity - czym jest ?
+### StudUnity - czym jest ?
 **Stworzymy dla studentów StudUnity. Jest to aplikacja zawierająca wszystkie najważniejsze notatki z wykładów, laboratoriów oraz ćwiczeń audytoryjnych.**
 ```
 Jaki jest nasz cel?
 ```
 
 - Głównym celem projektu jest stworzenie przyjaznego i łatwego w obsłudze środowiska ułatwiającego naukę i poszerzanie wiedzy z różnych zakresów. Dzięki naszej aplikacji studenci rozmaitych kierunków będą mogli wspomagać się wzajemnie w tym trudnym aspekcie studenckiego życia.
+
+## Natchnienie na projekt
+[https://knowunity.pl/] 

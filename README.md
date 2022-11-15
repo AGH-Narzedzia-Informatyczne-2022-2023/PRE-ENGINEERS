@@ -20,6 +20,7 @@ print(" cześć przybyszu ")
 ###### Panda
 ![panda](Animals/panda.jpg)
 
+
 ### StudUnity - czym jest ?
 **Stworzymy dla studentów StudUnity. Jest to aplikacja zawierająca wszystkie najważniejsze notatki z wykładów, laboratoriów oraz ćwiczeń audytoryjnych.**
 ```

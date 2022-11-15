@@ -32,3 +32,6 @@ Jaki jest nasz cel?
 Do czego dążymy?
 ```
  - Przede wszystkim pragniemy, aby nasza aplikacja była intuicyjna w obsłudze, przyjazna użytkownikowi, w czym ma pomóc odpowiednio dobrany interfejs. Komponenty informacyjne będą pojawiać się w formie przycisków i pasków, co podnosi interaktywność.
+ 
+ - Źródło inspiracji -
+[https://knowunity.pl/] 

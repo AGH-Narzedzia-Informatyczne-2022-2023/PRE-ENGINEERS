@@ -16,7 +16,7 @@ Jako Pre-engineers chcialibyśmy ułatwić studentom studia i naukę. Dlatego po
 - granice 
 - pochodne funkcji
 
-###### PASJA DO MATEMATYKI OD DZIECKA, ALE ZAWSZE STRACH PRZED ZAJĘCIAMI
+#### PASJA DO MATEMATYKI OD DZIECKA, ALE ZAWSZE STRACH PRZED ZAJĘCIAMI
 ```python
 print(" cześć przybyszu ")
 ```
@@ -38,7 +38,7 @@ print(" cześć przybyszu ")
 Jaki jest nasz cel?
 ```
 
-- Głównym celem projektu jest stworzenie przyjaznego i łatwego w obsłudze środowiska ułatwiającego naukę i poszerzanie wiedzy z różnych zakresów. Dzięki naszej aplikacji studenci rozmaitych kierunków będą mogli wspomagać się wzajemnie w tym trudnym aspekcie studenckiego życia.
+### Głównym celem projektu jest stworzenie przyjaznego i łatwego w obsłudze środowiska ułatwiającego naukę i poszerzanie wiedzy z różnych zakresów. Dzięki naszej aplikacji studenci rozmaitych kierunków będą mogli wspomagać się wzajemnie w tym trudnym aspekcie studenckiego życia.
 
 ```
 Do czego dążymy?
@@ -50,13 +50,12 @@ Do czego dążymy?
  ```
  Źródło inspiracji 
  ```
- - [https://knowunity.pl/] 
+ [https://knowunity.pl/] 
  
- 
- - <details><summary>StudUnity to głównie:</summary>
+ <details><summary>StudUnity to głównie:</summary>
 
-     - pomoc dla każdego, kto pragnie zdać,
-     - dozgonna wdzięczność dla tych, co tak wiernie wysyłają notatki,
-     - to także poznanie się na licznych korepetycjach.
+   - pomoc dla każdego, kto pragnie zdać,
+   - dozgonna wdzięczność dla tych, co tak wiernie wysyłają notatki,
+   - to także poznanie się na licznych korepetycjach.
 
 </details>

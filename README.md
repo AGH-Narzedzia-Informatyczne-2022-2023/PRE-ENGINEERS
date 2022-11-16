@@ -1,4 +1,9 @@
-## PRE-ENGINEERSS
+# PRE-ENGINEERS
+
+![TO ZDJĘCIE MEGA ZMĘCZONEGO STUDENTA]([https://myoctocat.com/assets/images/base-octocat.svg](https://st2.depositphotos.com/1017986/7472/i/600/depositphotos_74724041-stock-photo-tired-student-or-man-with.jpg))
+## TEGO WŁAŚNIE NIE CHCEMY DLA NASZYCH PRZYJACIÓŁ!!!
+
+
 **Algebra liniowa to nasza pasja** 
 [https://pl.wikipedia.org/wiki/Algebra] 
 1. Algebra liniowa

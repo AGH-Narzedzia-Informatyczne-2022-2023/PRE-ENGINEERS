@@ -1,8 +1,10 @@
+
 # PRE-ENGINEERS
 
-![TO ZDJĘCIE MEGA ZMĘCZONEGO STUDENTA]([https://myoctocat.com/assets/images/base-octocat.svg](https://st2.depositphotos.com/1017986/7472/i/600/depositphotos_74724041-stock-photo-tired-student-or-man-with.jpg))
-## TEGO WŁAŚNIE NIE CHCEMY DLA NASZYCH PRZYJACIÓŁ!!!
+![TO ZDJĘCIE MEGA ZMĘCZONEGO STUDENTA](zdjatka/zmeczony_student.jpg)
 
+## TEGO WŁAŚNIE NIE CHCEMY DLA NASZYCH PRZYJACIÓŁ!!!
+# Dlatego na pomoc przychodzimy właśnie MY i nasza aplikacja STUDUNITY!!!
 
 **Algebra liniowa to nasza pasja** 
 [https://pl.wikipedia.org/wiki/Algebra] 

@@ -5,20 +5,26 @@
 ## TEGO WŁAŚNIE NIE CHCEMY DLA NASZYCH PRZYJACIÓŁ!!!
 # Dlatego na pomoc przychodzimy właśnie MY i nasza aplikacja STUDUNITY!!!
 
-**Algebra liniowa to nasza pasja** 
+Jako Pre-engineers chcialibyśmy ułatwić studentom studia i naukę. Dlatego powstaje aplikacje stworzona, aby umożliwić zdawanie egzaminów bez ogromnego stresu i wysiłku.
+
+
+### ZWYKLE STUDENCI PIERWSZEGO ROKU MAJĄ PROBLEM Z:
+**Algebrą liniową i analizą matematyczną** 
 [https://pl.wikipedia.org/wiki/Algebra] 
 1. Algebra liniowa
 2. Analiza matematyczna
 - granice 
 - pochodne funkcji
-###### PASJA DO MATEMATYKI OD DZIECKA
+
+###### PASJA DO MATEMATYKI OD DZIECKA, ALE ZAWSZE STRACH PRZED ZAJĘCIAMI
 ```python
 print(" cześć przybyszu ")
 ```
 ## Tabela 
 | na lewo    | w górę i w dół  | na prawo  |
 
-## Zwierzyniec
+## Wierzymy głęboko, że takie zwierzęta pomoagają naszym studentom zdawać kolokwia:
+
 ###### Kotek        
 ![cat](Animals/cat.jpg)
 ###### Piesek

@@ -23,7 +23,7 @@ print(" cześć przybyszu ")
 ## Tabela 
 | na lewo    | w górę i w dół  | na prawo  |
 
-## Wierzymy głęboko, że takie zwierzęta pomoagają naszym studentom zdawać kolokwia:
+## Wierzymy głęboko, że takie zwierzęta pomagają naszym studentom zdawać kolokwia:
 
 ###### Kotek        
 ![cat](Animals/cat.jpg)
@@ -51,3 +51,12 @@ Do czego dążymy?
  Źródło inspiracji 
  ```
  - [https://knowunity.pl/] 
+ 
+ 
+ - <details><summary>StudUnity to głównie:</summary>
+
+     - pomoc dla każdego, kto pragnie zdać,
+     - dozgonna wdzięczność dla tych, co tak wiernie wysyłają notatki,
+     - to także poznanie się na licznych korepetycjach.
+
+</details>

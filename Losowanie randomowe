@@ -1,0 +1,110 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <limits.h>
+
+int main (void)
+{
+    int seed;
+    int n;
+    int liczba;
+    int a=0, b=0, c=0, d=0, e=0, f=0, g=0, h=0, j=0;
+    int max=999;
+    int min=100;
+    double suma1=0, suma2=0, suma3=0, suma4=0, suma5=0, suma6=0, suma7=0, suma8=0, suma9=0;
+    double srednia1, srednia2, srednia3, srednia4, srednia5, srednia6, srednia7, srednia8, srednia9;
+    
+    do
+    {
+            printf("WPISZ WARTOSC ZARODKA: \n");
+            scanf("%d", &seed);
+            srand(seed);
+            
+            printf("WPISZ LICZBE GENEROWANYCH LICZB PSEUDOLOSOWYCH: \n");
+            scanf("%d", &n);
+        
+    }while(!(seed>0 && n>INT_MIN && n<RAND_MAX));
+    
+    
+    for(int i=0; i<n; ++i)
+    {
+        liczba=min+(rand()%(max-min+1));
+        
+        if(liczba>=100 && liczba<=199)
+        {
+            suma1=suma1+liczba;
+            a++;
+        }
+        if(liczba>=200 && liczba<=299)
+        {
+            suma2=suma2+liczba;
+            b++;
+        }
+        if(liczba>=300 && liczba<=399)
+        {
+            suma3=suma3+liczba;
+            c++;
+        }
+        if(liczba>=400 && liczba<=499)
+        {
+            suma4=suma4+liczba;
+            d++;
+        }
+        if(liczba>=500 && liczba<=599)
+        {
+            suma5=suma5+liczba;
+            e++;
+        }
+        if(liczba>=600 && liczba<=699)
+        {
+            suma6=suma6+liczba;
+            f++;
+        }
+        if(liczba>=700 && liczba<=799)
+        {
+            suma7=suma7+liczba;
+            g++;
+        }
+        if(liczba>=800 && liczba<=899)
+        {
+            suma8=suma8+liczba;
+            h++;
+        }
+        if(liczba>=900 && liczba<=999)
+        {
+            suma9=suma9+liczba;
+            j++;
+        }
+
+    }
+    
+   srednia1=(suma1/a);
+   printf("%.2lf ", srednia1);
+   
+   srednia2=(suma2/b);
+   printf("%.2lf ", srednia2);
+   
+   srednia3=(suma3/c);
+   printf("%.2lf ", srednia3);
+   
+   srednia4=(suma4/d);
+   printf("%.2lf ", srednia4);
+   
+   srednia5=(suma5/e);
+   printf("%.2lf ", srednia5);
+   
+   srednia6=(suma6/f);
+   printf("%.2lf ", srednia6);
+   
+   srednia7=(suma7/g);
+   printf("%.2lf ", srednia7);
+   
+   srednia8=(suma8/h);
+   printf("%.2lf ", srednia8);
+   
+   srednia9=(suma9/j);
+   printf("%.2lf ", srednia9);
+   
+   printf("\n");
+    
+    return 0;
+}

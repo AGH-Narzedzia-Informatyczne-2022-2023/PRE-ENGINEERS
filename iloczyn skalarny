@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void) { 
 double tab[10];
 double tab2[10];
-double tab3[10]; 
+double tab3[10];   
 double start;
 double stop;
 double r;

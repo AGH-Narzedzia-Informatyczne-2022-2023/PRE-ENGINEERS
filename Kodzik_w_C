@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <limits.h>
+
+int main(void) 
+{
+    int seed, n;
+    printf("Wpisz wartosc zarodka: ");
+    scanf("%d",&seed);
+    printf("Wpisz liczbe generowanych liczb pseudolosowych: ");
+    scanf("%d",&n);
+    srand(seed);
+    int tab[n], w;
+    float suma;
+        for(int i = 0; i< n; i++)
+            tab[i] = rand() % 900 + 100;
+        for(int i=100; i< 1000; i+=100)
+        {   w=0;
+            suma=0;
+            for(int j=0; j<n; j++)
+                if(tab[j] >= i && tab[j] <= i + 99)
+                { 
+                    w++;
+                    suma+=tab[j];
+                }
+                if(w !=0)
+                    printf("%.2f ", suma/w);
+                else
+                    printf("0.00");
+        }         
+    return 0;
+}

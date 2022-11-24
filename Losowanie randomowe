@@ -15,12 +15,12 @@ int main (void)
     
     do
     {
-            printf("WPISZ WARTOSC ZARODKA: \n");
-            scanf("%d", &seed);
-            srand(seed);
+        printf("WPISZ WARTOSC ZARODKA: \n");
+        scanf("%d", &seed);
+        srand(seed);
             
-            printf("WPISZ LICZBE GENEROWANYCH LICZB PSEUDOLOSOWYCH: \n");
-            scanf("%d", &n);
+        printf("WPISZ LICZBE GENEROWANYCH LICZB PSEUDOLOSOWYCH: \n");
+        scanf("%d", &n);
         
     }while(!(seed>0 && n>INT_MIN && n<RAND_MAX));
     

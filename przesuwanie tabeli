@@ -1,0 +1,45 @@
+```
+#include <stdio.h>
+
+#define SIZE   10 
+
+int main(void)
+{
+    int tab[SIZE] = {10,11,12,13,14,15,16,17,18,19};
+    int move, movel;
+
+    printf("Wpisz wielkosc przesuniecia w prawo: ");
+    scanf("%d",&move);
+
+    printf("Wpisz wielkosc przesuniecia w lewo: ");
+    scanf("%d", &movel);
+
+    int i;
+    
+    for(i=0; i<=9; i++)
+    {
+        tab[9-i]=tab[9-i-move];
+    }
+    for(i=0; i<move; i++)
+    {
+        tab[i]=-2;
+    }
+    
+    for(i=0; i<=9; i++);
+    {
+        tab[0+i]=tab[0+i+movel];
+    }
+    for(i=0; i<movel; i++)
+    {
+        tab[9-i]=-1;
+    }
+
+    for(i=0; i<10; i++)
+    {
+        printf("%d ",tab[i]);
+    }
+
+
+    return 0;
+}
+```

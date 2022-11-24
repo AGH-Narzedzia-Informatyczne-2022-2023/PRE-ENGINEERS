@@ -1,4 +1,3 @@
-```
 #include <stdio.h>
 
 #define SIZE   10 
@@ -16,23 +15,25 @@ int main(void)
 
     int i;
     
+    
     for(i=0; i<=9; i++)
     {
         tab[9-i]=tab[9-i-move];
     }
-    for(i=0; i<move; i++)
-    {
-        tab[i]=-2;
-    }
+      for(i=0; i<move; i++)
+      {
+          tab[i]=-2;
+      }
     
     for(i=0; i<=9; i++);
     {
         tab[0+i]=tab[0+i+movel];
     }
-    for(i=0; i<movel; i++)
-    {
-        tab[9-i]=-1;
-    }
+      for(i=0; i<movel; i++)
+      {
+          tab[9-i]=-1;
+      }
+
 
     for(i=0; i<10; i++)
     {
@@ -42,4 +43,3 @@ int main(void)
 
     return 0;
 }
-```

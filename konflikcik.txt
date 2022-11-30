@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tutaj wlasnie chcialabym wywolac konflikt
 Dodam w sumie jeszce kod maly, zeby cos tu bylo
 # include <stdio.h>
@@ -37,3 +38,6 @@ int main (void)
 	return 0;
 }
 Tekscik, ktory tutaj dodam sobie ot tak
+=======
+Cos innego dodam niz wczesniej i bedzie problem hihi
+>>>>>>> nowa_galaz_do_konfliktu
